@@ -13,5 +13,5 @@ C言語とRubyでシーザー暗号をプログラミングしてみた
 [C言語とRubyでシーザー暗号をプログラミングしてみた](https://gabekore.org/caesarcipher-c-ruby)
 
 # 関連Repo
-- [Ruby版]()
-- [C言語版]()
+- [Ruby版 | GitHub](https://github.com/gabekore/Ruby/tree/master/CaesarCipher)
+- [C言語版 | GitHub](https://github.com/gabekore/clang/tree/master/CaesarCipher)
